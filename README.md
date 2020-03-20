@@ -61,3 +61,6 @@ Looking to live stream on Twitch/YouTube/Mixer? Checkout my [Gist on my setup](h
 
 ## Podcasting?
 Looking to podcast? I have a guide similar to this on my blog: https://montemagno.com/podcast-equipment-accessories-guide/
+
+
+__Any amazon link is an affiliate link <3__
