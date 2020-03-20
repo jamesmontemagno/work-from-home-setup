@@ -3,11 +3,15 @@
 So, here is my current list of things I would recommend for people for working from home for meetings. It is a combination of Headphones, Mic, Lighting, and Camera.
 
 Ideally we are going for something like this:
+
 ![Mic setup with arm](mic1.png) or ![Mic setup on desk](mic2.png)
 
 
 ## Microphone:
-* All in one (advantage... all in one, USB, nothing else needed): 
+Good audio is important!
+### All in one 
+Advantage... all in one, USB, nothing else needed, but more limiting.
+
 * Blue Yeti Nano - $100 - https://amzn.to/395En9c
 * Blue Yeti - $130 - https://amzn.to/2woFSlp
 * With either of these I highly recommend that they have a place where it can be really close to them or an Arm Mount is great and some of these have combos
