@@ -6,6 +6,10 @@ Ideally we are going for something like this:
 
 ![Mic setup with arm](mic1.png) or ![Mic setup on desk](mic2.png)
 
+Here are a bunch of recommendations to help get your there regardless of your budget:
+
+## Headset 
+First things first... the best thing you can do is just get a headset. Literally any USB headset that is like $20 will work and they are also great if you don't have a full desk. This is a huge improvementand is my first recommendation.
 
 ## Microphone:
 Good audio is important!
@@ -15,9 +19,6 @@ Advantage... all in one, USB, nothing else needed, but more limiting.
 * Blue Yeti Nano - $100 - https://amzn.to/395En9c
 * Blue Yeti - $130 - https://amzn.to/2woFSlp
 * With either of these I highly recommend that they have a place where it can be really close to them or an Arm Mount is great and some of these have combos
-
-### Headset 
-If you don't have a desk or prefer a headset just literally any headset that is like $20 will work
 
 ### Stand alone Mics
 * MXL 770 - $70 - https://amzn.to/2QAfLyV
@@ -36,7 +37,7 @@ If you don't have a desk or prefer a headset just literally any headset that is 
 ### Pop Filter
 Everyone needs a pop filter and they are all the same (good for both all in one and standalone mics)
 * Simple - Neewer $10 - https://amzn.to/2JfA2Wx
-* Nicer - Blue - $50 https://amzn.to/2U73GmU
+* Top - Blue - $50 https://amzn.to/2U73GmU
 
 ## Headphones:
 I like a nice monitoring studio headset. They usually are made for longer sessions and nice and comfy.
@@ -62,5 +63,18 @@ Looking to live stream on Twitch/YouTube/Mixer? Checkout my [Gist on my setup](h
 ## Podcasting?
 Looking to podcast? I have a guide similar to this on my blog: https://montemagno.com/podcast-equipment-accessories-guide/
 
+
+# My Setup
+
+Here is what I personally own:
+
+* Microphone: Blue Blackout SL - $200 - https://amzn.to/2x9obGH
+* Arm: Rode PSA 1 - $100 - https://amzn.to/33wFL3t
+* Audio Interface: U-Phoria UMC22 - $70 - https://amzn.to/2IZMWHZ
+* Pop Filter: Blue - $50 https://amzn.to/2U73GmU
+* Webcam: Go-pro Hero 4 + Cam Link 
+* Lighting:  2x Full Key Light - $180 - https://amzn.to/2J3VTQE
+* Headphones: Sony MDR7506 - $90 - https://amzn.to/3dgW4Wy
+* Desk: Jarvis from Fully: https://www.fully.com
 
 __Any amazon link is an affiliate link <3__
