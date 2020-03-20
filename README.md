@@ -1,15 +1,16 @@
 # work-from-home-setup
 
-So, here is my current list of things I would recommend for people for working from home for meetings. It is a combination of Headphones, Mic, Lighting, and Camera.
+So, here is my current list of things I would recommend for people for working from home for meetings. It is a combination of Headphones, Mic, Lighting, and Camera. The major thing is Audio, and everything else is a bonus on top of that. I am not saying you should go out and spend a bunch of money, but anything over the built in stuff is a big upgrade to make your meeting more enjoyable.
 
-Ideally we are going for something like this:
+## Headset 
+First things first... the best thing you can do is just get a headset. Literally any USB headset that is like $20 will work and they are also great if you don't have a full desk. This is a huge improvementand is my first recommendation.
+
+## Upgrading
+Want to go further and do some more serious upgrades and look a bit more like:
 
 ![Mic setup with arm](mic1.png) or ![Mic setup on desk](mic2.png)
 
 Here are a bunch of recommendations to help get your there regardless of your budget:
-
-## Headset 
-First things first... the best thing you can do is just get a headset. Literally any USB headset that is like $20 will work and they are also great if you don't have a full desk. This is a huge improvementand is my first recommendation.
 
 ## Microphone:
 Good audio is important!
