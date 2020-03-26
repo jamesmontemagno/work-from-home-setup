@@ -21,6 +21,9 @@ Advantage... all in one, USB, nothing else needed, but more limiting.
 * Blue Yeti - $130 - https://amzn.to/2woFSlp
 * With either of these I highly recommend that they have a place where it can be really close to them or an Arm Mount is great and some of these have combos
 
+### USB + ARM == Awesome
+One of my new favorite products is the [Yeticaster](https://amzn.to/2JgIrsB), which has a built in Yeti + Arm in it! For $180 it is a steal and you don't have to worry about a complex setup and you can get it close to your mouth for the best audio.
+
 ### Stand alone Mics
 * MXL 770 - $70 - https://amzn.to/2QAfLyV
 * Top Pick - Blue Blackout SL - $200 - https://amzn.to/2x9obGH
