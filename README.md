@@ -19,18 +19,22 @@ Advantage... all in one, USB, nothing else needed, but more limiting.
 
 * Blue Yeti Nano - $100 - https://amzn.to/395En9c
 * Blue Yeti - $130 - https://amzn.to/2woFSlp
-* With either of these I highly recommend that they have a place where it can be really close to them or an Arm Mount is great and some of these have combos
+* Blue Yeti Pro - $170 - https://amzn.to/3a8vP5D
+
+With any of these I highly recommend that they have a place where it can be really close to them or an Arm Mount is great and some of these have combos. 
 
 ### USB + ARM == Awesome
 One of my new favorite products is the [Yeticaster](https://amzn.to/2JgIrsB), which has a built in Yeti + Arm in it! For $180 it is a steal and you don't have to worry about a complex setup and you can get it close to your mouth for the best audio.
 
 ### Stand alone Mics
+I am a big fan of combining Mic + Arm + XLR + Audio interface. You get all of the control and have a wide variety of options. There are a lot of mics out there, however the main ones that we use for podcasting are the MXL 770 and the Blue Blackout SL. These both are solid microphones. They are a bit different in price, but you can't go wrong with either.
+
 * MXL 770 - $70 - https://amzn.to/2QAfLyV
 * Top Pick - Blue Blackout SL - $200 - https://amzn.to/2x9obGH
 
 #### These also need an audio interface
 * U-Phoria UMC22 - $70 - https://amzn.to/2IZMWHZ
-* Also need XLR cable
+* Also you will need a XLR cable
 * Amazon Basics - < $10 - https://amzn.to/2x99dAu
 
 ### Microphone Arm Mount - Recommended
