@@ -33,7 +33,10 @@ I am a big fan of combining Mic + Arm + XLR + Audio interface. You get all of th
 * Top Pick - Blue Blackout SL - $200 - https://amzn.to/2x9obGH
 
 #### These also need an audio interface
+These give you complete control from XLR to USB with the ability to adjust your audio levels, mix, and more.
+
 * U-Phoria UMC22 - $70 - https://amzn.to/2IZMWHZ
+* Scarlett Solo - $100 - https://amzn.to/2KbVVcS
 * Also you will need a XLR cable
 * Amazon Basics - < $10 - https://amzn.to/2x99dAu
 
