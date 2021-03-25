@@ -68,12 +68,11 @@ You can also get a series of Ring Lights that Hanselman has recommended in the p
 ## Desk
 I love a good sit/stand desk and personally own a [Fully](https://www.fully.com/)
 
-## Live Streaming?
-Looking to live stream on Twitch/YouTube/Mixer? Checkout my [Gist on my setup](https://gist.github.com/jamesmontemagno/72f513bff91678b2c0130a4427f21f0d)
-
 ## Podcasting?
 Looking to podcast? I have a guide similar to this on my blog: https://montemagno.com/podcast-equipment-accessories-guide/
 
+## Live Streaming?
+Looking to live stream on Twitch/YouTube? Checkout my [Gist on my setup](https://gist.github.com/jamesmontemagno/72f513bff91678b2c0130a4427f21f0d)
 
 # My Setup
 
@@ -83,9 +82,11 @@ Here is what I personally own:
 * Arm: Rode PSA 1 - $100 - https://amzn.to/33wFL3t
 * Audio Interface: U-Phoria UMC22 - $70 - https://amzn.to/2IZMWHZ
 * Pop Filter: Blue - $50 https://amzn.to/2U73GmU
-* Webcam: Go-pro Hero 4 + Cam Link 
+* Webcam: Go-pro Hero 4 + [Cam Link](https://amzn.to/2NQzXOH) 
 * Lighting:  2x Full Key Light - $180 - https://amzn.to/2J3VTQE
 * Headphones: Sony MDR7506 - $90 - https://amzn.to/3dgW4Wy
+* [Elgato Key Light](https://amzn.to/2BXyRrk): Professional LED Panel + WiFi control
+* [Elgato Stream Deck](https://amzn.to/2T4vIR8): Essential for moving from scene to scene, muting audio, and playing clips.
 * Desk: Jarvis from Fully: https://www.fully.com
 
 __Any amazon link is an affiliate link <3__
