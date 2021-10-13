@@ -88,5 +88,7 @@ Here is what I personally own:
 * [Elgato Key Light](https://amzn.to/2BXyRrk): Professional LED Panel + WiFi control
 * [Elgato Stream Deck](https://amzn.to/2T4vIR8): Essential for moving from scene to scene, muting audio, and playing clips.
 * Desk: Jarvis from Fully: https://www.fully.com
+* Mouse: Logi MX Master 2S: https://amzn.to/3lBIEdS
+* Keyboard: Tecware Phantom 87 - Brown: https://amzn.to/3v65GN4
 
 __Any amazon link is an affiliate link <3__
