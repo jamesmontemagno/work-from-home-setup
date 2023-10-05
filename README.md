@@ -82,7 +82,7 @@ Here is what I personally own:
 * Arm: Rode PSA 1 - $100 - https://amzn.to/33wFL3t
 * Audio Interface: U-Phoria UMC22 - $70 - https://amzn.to/2IZMWHZ
 * Pop Filter: Blue - $50 https://amzn.to/2U73GmU
-* Webcam: Go-pro Hero 4 + [Cam Link](https://amzn.to/2NQzXOH) 
+* Camera: Canon M50 MarkII - https://amzn.to/45pytMZ
 * Lighting:  2x Full Key Light - $180 - https://amzn.to/2J3VTQE
 * Headphones: Sony MDR7506 - $90 - https://amzn.to/3dgW4Wy
 * [Elgato Key Light](https://amzn.to/2BXyRrk): Professional LED Panel + WiFi control
